@@ -1,0 +1,14 @@
+Obs: Não subiu as alterações realizadas, então criei o texte.txt apenas para demonstrar o que foi feito.
+
+
+------------------------------------
+23/05/2024:
+Integrando Java e HTML com VRaptor
+
+------------------------------------
+23/05/2024:
+Criado a navegação entre páginas ao clicar nos botões de login e cadastro.
+
+------------------------------------
+24/05/2024:
+Passando dados do HTML para o Java.
