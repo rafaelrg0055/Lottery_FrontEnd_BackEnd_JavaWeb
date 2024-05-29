@@ -12,3 +12,7 @@ Criado a navegação entre páginas ao clicar nos botões de login e cadastro.
 ------------------------------------
 24/05/2024:
 Passando dados do HTML para o Java.
+
+------------------------------------
+28 e 29/05/2024:
+Revisado o projeto.
