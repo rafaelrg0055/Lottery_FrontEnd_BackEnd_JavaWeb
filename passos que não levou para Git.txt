@@ -16,3 +16,15 @@ Passando dados do HTML para o Java.
 ------------------------------------
 28 e 29/05/2024:
 Revisado o projeto.
+
+HTTP Status 500 – Internal Server Error
+Type Exception Report
+Message javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory
+Description The server encountered an unexpected condition that prevented it from fulfilling the request.
+Exception
+br.com.caelum.vraptor.InterceptionException: javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory
+	br.com.caelum.vraptor.interceptor.StepInvoker.invokeMethod(StepInvoker.java:54)
+	br.com.caelum.vraptor.interceptor.StepInvoker.tryToInvoke(StepInvoker.java:40)
+------------------------------------
+30/05/2024:
+Salvando Usuário no banco de dados.
