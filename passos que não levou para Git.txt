@@ -28,3 +28,16 @@ br.com.caelum.vraptor.InterceptionException: javax.persistence.PersistenceExcept
 ------------------------------------
 30/05/2024:
 Salvando Usuário no banco de dados.
+
+------------------------------------
+01/06/2024:
+Inserindo no projeto o Model e DAO Generic.
+
+Removido do gitignore loteria:
+out
+.classpath
+.project
+.settings
+.metadata
+
+target
