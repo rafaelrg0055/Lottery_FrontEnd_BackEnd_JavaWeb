@@ -50,6 +50,9 @@ Validação de formulário.
 02/06/2024:
 Validação Personalizada (senha e confirmar senha).
 
+------------------------------------
+02/06/2024:
+Não perder campos já preenchidos.
 
 
 
