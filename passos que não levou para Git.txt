@@ -46,3 +46,10 @@ target
 01/06/2024:
 Validação de formulário.
 
+------------------------------------
+02/06/2024:
+Validação Personalizada (senha e confirmar senha).
+
+
+
+
